@@ -1,1 +1,1 @@
-algorithm_project
+It is records of algorithm exercise.
